@@ -1,6 +1,6 @@
 # **Global Diabetes Diagnosis Gap Insights – Project Overview**
 
-**The goal of this project is to identify high-need regions with the largest diagnosis gaps in diabetes care and translate these findings into recommendations for public health planning and market access strategy.**
+### The goal of this project is to identify high-need regions with the largest diagnosis gaps in diabetes care and translate these findings into recommendations for public health planning and market access strategy.
 
 Diabetes continues to rise globally, yet millions remain undiagnosed, leading to delayed treatment, higher mortality, and increasing healthcare costs. Using data from the **International Diabetes Federation (IDF) Diabetes Atlas, 11th Edition (2025)**, this analysis measures the scale of undiagnosed diabetes and highlights regions where early detection initiatives would yield the most significant outcomes.
 
