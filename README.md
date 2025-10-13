@@ -87,3 +87,11 @@ Each dashboard visualises a different dimension of the diagnosis gap using the *
 <p align="center">
   <img src="World_Map.png" alt="Global Diagnosis Gap Map" width="90%">
 </p>
+
+---
+
+## Additional Resources
+
+You can explore the interactive **Regional Comparison Dashboard** on Tableau Public.  
+
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/lebogang.selepe/viz/DiabetesDashboards_17603599011940/Dashboard2)
