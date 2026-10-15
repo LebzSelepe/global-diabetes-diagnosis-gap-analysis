@@ -32,8 +32,8 @@ To support interpretability and comparison, DGR values were classified into 4 co
 | **Cohort** | **Range (DGR %)** | **Interpretation** |
 |:------------|:------------------|:-------------------|
 | **A – Critical** | ≥ 8% | Highest priority for intervention and monitoring |
-| **B – High** | 5 – < 8% | Significant diagnostic gap; targeted improvement needed |
-| **C – Moderate** | 3 – < 5% | Partial diagnostic coverage; maintain improvement momentum |
+| **B – High** | 5 – 8% | Significant diagnostic gap; targeted improvement needed |
+| **C – Moderate** | 3 – 5% | Partial diagnostic coverage; maintain improvement momentum |
 | **D – Lower** | < 3% | Strong diagnostic coverage; sustain best practices |
 
 While these numeric ranges are not standardised across global policy literature, they reflect the categorical framing commonly used in public-health and market-access contexts to describe diagnostic readiness. The thresholds were analytically defined to enable consistent regional comparison and to align with real-world interpretations of diagnostic performance.
